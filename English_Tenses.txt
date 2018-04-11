@@ -1,0 +1,62 @@
+1. Simple Present Tense
+    (+) S + V1 + O / C
+        (-) S + do /does + not + V1 + O/C
+            (?) Do / does + S + V1 + O / C
+
+2. Present Continuous Tense
+Formula:
+(+) S + be + V1 + ing + O / C
+    (-) S + be + not + V1 + ing + O / C
+        (?) Be + S + V1 + ing + O / C
+
+3. Present Perfect Tense
+Formula
+    (+) S + has / have + been + O / C
+S + has / have + V3 + O / C
+    (-) S + has / have + not + been + O / C
+S + has / have + not + V3 + O / C
+    (?) Have / has + S + been + O / C
+Have / has + S + V3 + O / C
+english grammar rules tenses chart, present sentence examples, past present verbs, has been grammar
+
+Formula:
+(+) S + have / has + been + V - ing
+    (-) S + have / has + not + been + V - ing
+        (?) Have / has + S + been + V - ing
+
+5. Simple Past Tense
+Formula:
+(+) S + to be(was / were) + O / C
+S + V2 + O / C
+    (-) S + to be(was / were) + not + O / C
+S + did not + V1 + O / C
+    (?) Did + S + V1 + O / C
+
+6. Past Continuous Tense
+Formula:
+(+) S + to be(was / were) + V - ing + O / C
+    (-) S + to be(was / were) + not + V - ing + O / C
+        (?) Was / were + S + V - ing + O / C
+
+
+7. Past Perfect Tense
+Formula:
+(+) S + had + V3 + O / C
+    (-) S + had + not + V3 + O / C
+        (?) Had + S + V3 + O / C
+
+8. Past Perfect Continuous Tense
+Formula:
+(+) S + had + been + V - ing + O / C
+    (-) S + had + not + been + V - ing + O / C
+        (?) Had + S + been + V - ing + O / C
+
+
+9. Simple Future Tense
+Formula:
+(+) S + will / shall + V1 + O / C
+S + am / is / are + going to + V1 + O / C
+    (-) S + will / shall + not + V1 + O / C
+S + am / is / are + not + going to + V1 + O / C
+    (?) Will / shall + S + V1 + O / C
+Am / is / are + S + going to + V1 + O / C
